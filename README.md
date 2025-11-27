@@ -16,6 +16,13 @@ The app lets the user search by city name and shows:
 - JavaScript (ES6+)
 - Fetch API
 - OpenWeatherMap Current Weather API
+- 
+ ## API Used
+
+- OpenWeatherMap Current Weather API (Current weather data)
+  - Endpoint: `https://api.openweathermap.org/data/2.5/weather`
+  - Example: `https://api.openweathermap.org/data/2.5/weather?q=Toronto&appid=YOUR_API_KEY&units=metric`
+
 
 ## How to Run
 

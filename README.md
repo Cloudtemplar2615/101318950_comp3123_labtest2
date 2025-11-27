@@ -43,3 +43,10 @@ npm start
 ## Deployed Link
 https://101318950-comp3123-labtest2.vercel.app/
 
+## Screenshots
+
+![Toronto weather](screenshots/home-toronto.png)
+![London weather](screenshots/london-search.png)
+![Postman](screenshots/postman-toronto.png)
+
+

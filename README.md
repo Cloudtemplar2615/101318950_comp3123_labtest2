@@ -27,3 +27,7 @@ The app lets the user search by city name and shows:
 Install dependencies:npm install
 Create .env in the project root:REACT_APP_WEATHER_KEY=your_openweather_api_key_here
 Start the app:npm start
+
+## Deployed Link
+https://101318950-comp3123-labtest2.vercel.app/
+
